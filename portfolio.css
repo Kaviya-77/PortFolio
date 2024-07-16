@@ -92,10 +92,7 @@ span{
     
 }
 .home-img img{
-    width:20vw ;
-    padding:2px;
-    margin:50px;
-    /* height:70vh; */
+    width:30vw ;
 }
 .home-img img:hover{ 
     transform: scale(1.02); 
