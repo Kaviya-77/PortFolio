@@ -67,7 +67,6 @@ section{
     display: flex;
     justify-content:center;
     align-items:center;
-
 }
 .home-content h3{
     font-size: 3rem;
@@ -92,7 +91,7 @@ span{
     
 }
 .home-img img{
-    width:20vw ;
+    width:300px ;
 }
 .home-img img:hover{ 
     transform: scale(1.02); 
