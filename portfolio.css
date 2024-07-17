@@ -68,7 +68,7 @@ section{
     display: flex;
     justify-content:center;
     align-items:center;
-    flex-wrap:wrap-reverse;
+    flex-wrap:wrap;
 }
 .home-content h3{
     font-size: 3rem;
@@ -94,6 +94,7 @@ span{
 }
 .home-img img{
     width:250px ;
+   
 }
 .home-img img:hover{ 
     transform: scale(1.02); 
@@ -102,7 +103,7 @@ span{
 .home-content p{
     font-size: 1.6rem;
     text-align: justify;
-
+    width: 60vw;
 }
 .social-media a{
     display: inline-flex;
